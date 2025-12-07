@@ -35,3 +35,9 @@ Install SDL2:
 ```bash
 sudo apt update
 sudo apt install libsdl2-dev libsdl2-image-dev
+```
+
+## How to Use  
+Clone the repository and navigate to the project directory and run :
+
+``` .\program(executable)  <path-to-image.ppm> ```
